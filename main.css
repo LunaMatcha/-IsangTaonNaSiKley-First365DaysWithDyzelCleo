@@ -1,0 +1,56 @@
+.bebe{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.fas fa-gem me-3{
+    color: black;
+}
+.card-title{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: large;
+    text-transform: uppercase;
+}
+.card-text {
+    color: black;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: medium;
+}
+.display-4{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: xx-large;
+}
+.h1{
+    padding: 60px;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header h1{
+    padding: 50px;
+    text-align: center;
+    background: lightcoral;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+  }
+  .add{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .head{
+    padding: 60px;
+    text-align: center;
+    background: lightcoral;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+  }
